@@ -1,4 +1,4 @@
-# sand_piles
+# Sand piles on cellular automatons and random graphs
 Models of Bak-Tang-Wiesenfeld, Manna, Feders and stochastic Feders sand piles on cellular automaton and random graphs in Python 3
 
 Some of the results presented in these files are used for the publications:
