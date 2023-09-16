@@ -7,6 +7,8 @@ v1.3 - Added one more alternative pattern of sand grains addition into the syste
 
 v1.4 - Added two more patterns of sand grains addition (exponential or Pareto distributions for the number of new grains each turn), refactored functions for the creation of new grains
 
+v1.5 - Added alternative implementation of Chung-Lu models with the directed (instead of basic undirected) edges
+
 Some of the results presented in these files are used for the publications:
   1. Dmitriev, A., Lebedev, A., Kornilov, V., & Dmitriev, V. (2022). Multifractal Early Warning Signals about Sudden Changes in the Stock Exchange States. Complexity, 2022, 1–10. 
   https://doi.org/10.1155/2022/8177307
