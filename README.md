@@ -14,3 +14,5 @@ v1.5.1 - Added ability to calculate number of the edges that grains have passed 
 Some of the results presented in these files are used for the publications:
   1. Dmitriev, A., Lebedev, A., Kornilov, V., & Dmitriev, V. (2022). Multifractal Early Warning Signals about Sudden Changes in the Stock Exchange States. Complexity, 2022, 1–10. 
   https://doi.org/10.1155/2022/8177307
+  2. Dmitriev, A., Lebedev, A., Kornilov, V., & Dmitriev, V. (2023). Effective precursors for self-organization of complex systems into a critical state based on dynamic series data
+  https://doi.org/10.3389/fphy.2023.1274685
